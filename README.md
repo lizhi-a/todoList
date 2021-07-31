@@ -39,5 +39,6 @@
 ```
 ### 4.	注意 defaultchecked和 checked的区别,类似的还有: defaultvalue和 value
 defaultchecked：只在第一次渲染有作用，后续checked值改变，其样式不会发生对应改变
+
 checked：react 中使用 checked 必须和 onChange 事件配合使用，否则会有警告
 ### 5.**状态在哪里,操作状态的方法就在哪里**
